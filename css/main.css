@@ -1014,8 +1014,8 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .section-intro h5 {
 	color: #18e7e9d6;
 	font-size: 1.6rem;
-	line-height: 7.5;
-	margin-bottom: 4.3rem;
+	line-height: 2.5;
+	margin-bottom: 2.3rem;
 	letter-spacing: .4rem;
 }
 
@@ -1477,7 +1477,7 @@ header .logo a {
 .intro-info img {
 	height: 9rem;
 	width: 9rem;
-	border-radius: 50%;
+	border-radius: 15%;
 	margin: .9rem 0 0 0;
 	float: left;
 }
@@ -1574,8 +1574,8 @@ header .logo a {
 		margin-top: 3rem;
 	}
 	.intro-info img {
-		height: 6.6rem;
-		width: 6.6rem;
+		height: 10.6rem;
+		width: 10.6rem;
 		float: none;
 		display: inline-block;
 	}
